@@ -18,7 +18,7 @@
     "testing",
     "rpa"
   ],
-  "skills": "./skills/",
+  "skills": "./",
   "interface": {
     "displayName": "rpa-feat",
     "shortDescription": "Add a feature strictly by BDD (red/green), docs, linter at the end.",
