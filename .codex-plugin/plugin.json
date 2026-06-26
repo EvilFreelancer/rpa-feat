@@ -1,0 +1,29 @@
+{
+  "name": "rpa-feat",
+  "version": "1.0.0",
+  "description": "Add a feature strictly by BDD: plan, failing tests (red), implementation (green), full test run, docs and examples, linter/pre-commit at the end. Requires a clear feature description.",
+  "author": {
+    "name": "Pavel Zloi",
+    "email": "paul@drteam.rocks",
+    "url": "https://t.me/evilfreelancer"
+  },
+  "homepage": "https://github.com/EvilFreelancer/rpa-feat",
+  "repository": "https://github.com/EvilFreelancer/rpa-feat",
+  "license": "MIT",
+  "keywords": [
+    "bdd",
+    "tdd",
+    "feature",
+    "workflow",
+    "testing",
+    "rpa"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "rpa-feat",
+    "shortDescription": "Add a feature strictly by BDD (red/green), docs, linter at the end.",
+    "developerName": "Pavel Zloi",
+    "category": "Developer Tools",
+    "websiteURL": "https://github.com/EvilFreelancer/rpa-feat"
+  }
+}
