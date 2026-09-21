@@ -1,7 +1,7 @@
 {
   "name": "rpa-feat",
   "description": "Add a feature strictly by BDD: plan, failing tests (red), implementation (green), full test run, docs and examples, linter/pre-commit at the end. Requires a clear feature description.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Pavel Rykov",
     "email": "paul@drteam.rocks"
@@ -16,6 +16,5 @@
     "workflow",
     "testing",
     "rpa"
-  ],
-  "category": "workflow"
+  ]
 }
