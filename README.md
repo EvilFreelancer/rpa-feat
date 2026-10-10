@@ -44,11 +44,11 @@ brings a newer version of the skill with each release.
 
 | Tool          | Path                          |
 |---------------|-------------------------------|
+| Coddy         | `~/.coddy/skills/rpa-feat/`       |
 | Claude Code   | `~/.claude/skills/rpa-feat/`      |
 | Cursor        | `~/.cursor/skills/rpa-feat/`      |
 | OpenAI Codex  | `~/.codex/skills/rpa-feat/`       |
 | Kimi Code CLI | `~/.kimi/skills/rpa-feat/`        |
-| Coddy         | `~/.coddy/skills/rpa-feat/`       |
 
 The directory name must match the `name` field in `SKILL.md`.
 
