@@ -36,6 +36,10 @@ This skill is distributed through the **rpa-skills** catalog (a Claude Code plug
 /plugin install rpa-feat@rpa-skills
 ```
 
+**In Coddy**: nothing to install. The skill ships in the standard delivery of [Coddy](https://coddy.dev):
+the first run writes it into `~/.coddy/skills/rpa-feat/`, `/rpa-feat` works right away, and `coddy update`
+brings a newer version of the skill with each release.
+
 **As a plain skill folder** — copy or symlink this repository into a skill root (its `SKILL.md` lives at the repo root):
 
 | Tool          | Path                          |
@@ -44,6 +48,7 @@ This skill is distributed through the **rpa-skills** catalog (a Claude Code plug
 | Cursor        | `~/.cursor/skills/rpa-feat/`      |
 | OpenAI Codex  | `~/.codex/skills/rpa-feat/`       |
 | Kimi Code CLI | `~/.kimi/skills/rpa-feat/`        |
+| Coddy         | `~/.coddy/skills/rpa-feat/`       |
 
 The directory name must match the `name` field in `SKILL.md`.
 
